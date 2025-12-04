@@ -156,13 +156,13 @@ export default function Index() {
       <Navbar />
 
       {/* Search Bar */}
-      <SearchBar />
+      {/* <SearchBar /> */}
 
       {/* Hero Carousel */}
       <HeroCarousel />
 
       {/* Filter Pills */}
-      <FilterPills />
+      {/* <FilterPills /> */}
 
       {/* Popular Categories */}
       <CategoryCards />
